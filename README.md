@@ -16,23 +16,7 @@
 
 ---
 
-## 📸 Screenshots
 
-> **Dashboard** — KPI cards, severity breakdown, city rankings, hourly trend, weather split
-
-![Dashboard Screenshot](https://via.placeholder.com/900x420.png?text=Dashboard+Screenshot+%E2%80%94+replace+with+actual+screenshot)
-
-> **Hotspot Map** — Interactive dark-tile Folium map with DBSCAN risk clusters
-
-![Hotspot Map Screenshot](https://via.placeholder.com/900x420.png?text=Hotspot+Map+Screenshot+%E2%80%94+replace+with+actual+screenshot)
-
-> **Severity Predictor** — Input conditions → Fatal / Major / Minor prediction with confidence gauge
-
-![Severity Predictor Screenshot](https://via.placeholder.com/900x420.png?text=Severity+Predictor+Screenshot+%E2%80%94+replace+with+actual+screenshot)
-
-> 💡 *To add real screenshots: run the app locally, take a screenshot of each page, save them as `assets/dashboard.png`, `assets/map.png`, `assets/predictor.png`, and replace the placeholder URLs above.*
-
----
 
 ## 📌 What is GeoSafe?
 
@@ -112,7 +96,6 @@ GeoSafe/
 │   ├── Hotspot_Detection.ipynb       ← DBSCAN clustering
 │   └── hotspot_map.html              ← Standalone map output
 │
-├── 📁 assets/                        ← Screenshots for README (add your own)
 │
 ├── 🐍 app.py                         ← Main Streamlit application (905 lines)
 ├── 🤖 Model_Training.ipynb           ← XGBoost training notebook
@@ -229,11 +212,6 @@ Contributions, issues, and feature requests are welcome! Feel free to open a [pu
 
 ---
 
-## 📄 License
-
-This project is open source under the [MIT License](./LICENSE).
-
----
 
 Made with ❤️ for Road Safety in India 🇮🇳
 
